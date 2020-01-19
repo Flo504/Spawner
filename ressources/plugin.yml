@@ -1,0 +1,5 @@
+name: Spawner
+author: Flo504
+version: 1.0
+main: fr.flo504.spawner.SpawnerPlugin
+api-version: 1.15
